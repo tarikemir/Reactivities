@@ -15,3 +15,4 @@ D:\0\repos\Reactivities\Application\obj\Debug\net9.0\Application.dll
 D:\0\repos\Reactivities\Application\obj\Debug\net9.0\refint\Application.dll
 D:\0\repos\Reactivities\Application\obj\Debug\net9.0\Application.pdb
 D:\0\repos\Reactivities\Application\obj\Debug\net9.0\ref\Application.dll
+D:\0\repos\Reactivities\Application\obj\Debug\net9.0\Application.sourcelink.json

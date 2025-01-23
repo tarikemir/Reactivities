@@ -13,3 +13,4 @@ D:\0\repos\Reactivities\Persistence\obj\Debug\net9.0\Persistence.dll
 D:\0\repos\Reactivities\Persistence\obj\Debug\net9.0\refint\Persistence.dll
 D:\0\repos\Reactivities\Persistence\obj\Debug\net9.0\Persistence.pdb
 D:\0\repos\Reactivities\Persistence\obj\Debug\net9.0\ref\Persistence.dll
+D:\0\repos\Reactivities\Persistence\obj\Debug\net9.0\Persistence.sourcelink.json
