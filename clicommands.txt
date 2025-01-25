@@ -40,3 +40,6 @@ dotnet ef migrations InitialCreate -s API -p Persistence
 npm create vite@latest
 npm install ( after creating should be runned.)
 npm run dev
+---
+In order to create .vscode folder ctrl+shift+p and type generate...
+---
